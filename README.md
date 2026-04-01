@@ -1,7 +1,5 @@
 # scan_axios_rat-sh
 
-# Axios Supply Chain Threat Scanner
-
 [![Bash](https://img.shields.io/badge/Script-Bash-4EAA25?logo=gnu-bash&logoColor=white)](#)
 [![Status](https://img.shields.io/badge/Status-Incident_Response-red)](#)
 
