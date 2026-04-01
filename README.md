@@ -20,21 +20,19 @@ Because the malware dropper cleans up its own manifest post-infection, standard 
 
 ## Usage
 
-Download and make executable:**
+Download and make executable:
 
 ```bash
 chmod +x scan_axios_rat.sh
 ```
 
 Run against the current directory:
-Bash
 
 ```bash
 ./scan_axios_rat.sh
 ```
 
 Run against a specific path (e.g., a monorepo or build server workspace):
-Bash
 
 ```bash
 ./scan_axios_rat.sh /path/to/your/workspace
